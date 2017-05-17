@@ -1,0 +1,2 @@
+# P-Seguridad
+Todos los archivos estan en la carpeta proyecto, incluyo la base de datos como archivo.sql el cual se tiene que importar desde el cmd para asi poder registrar usuarios, todos los demas archivos no tienen que moverse de posicion, solo la carpeta completa debe estar en xampp/htdocs, finalmente de las pocas practicas  para regresarte al inicio es directo con la flechita, ya no pude implementar un camino mas rapido.
